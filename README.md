@@ -16,7 +16,7 @@ Pitch types will be classified into various pitch types such as fastball, curveb
 
 Variable         | Type       | Description
 ------------     | ---------- | ------------
-Pitch Type |Response-What we are trying to predict |  Fastball, Curveball, Slider, Changeup
+Pitch Type | Target |  Fastball, Curveball, Slider, Changeup
 Count || 0-0, 0-1, ... 3-2
 Pitcher Handedness | | LH or RH
 Game Date 
