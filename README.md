@@ -33,5 +33,5 @@ IF alignment || Standard, Strategic, Shift
 OF alignment || Standard, Strategic, Shift
 
 
-
-
+## Additional Comments
+The initial scope of the analysis will be predicting four basic pitch types generalizing to all pitchers by team. If all goes well, the project could expand to a subset of individual pitchers. 
